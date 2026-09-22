@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "eab58aa679e28d51ae6c3366",
+  "owner": "bnkbyvcv",
+  "repo": "page-2040abcf0d4bc74d43539d0c",
+  "title": "Entropy",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2040abcf0d4bc74d43539d0c",
+      "a": "Entropy",
+      "b": "2027官方最新地址导航",
+      "entity": "Entropy",
+      "brand": "Entropy",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "435094174c0744374fd7147869f571c7b472d596ea750dca647f583e6fbb443f",
+      "content": {
+        "primary_entity": "Entropy",
+        "keyword1": "Entropy",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端：Windows、macOS、Android、iOS、路由器与 Linux 均有对应工具，不同版本对订阅链接的导入方式略有差异。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求选定套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。基础版适合单人轻量使用，旗舰版覆盖多设备与流媒体、游戏加速，团队版面向小团队高带宽需求，均可按月或按年订阅。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个角度对比套餐，按实际使用强度选择即可。",
+          "AI_FEATURES_TITLE": "套餐选择关注点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数对应选择。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，轻度浏览与大流量下载各有匹配档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，旗舰版与团队版年付价格分别为 ¥350 与 ¥850。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量档位",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确定套餐与设备范围，再按客户端文档完成订阅导入，整个过程可在几分钟内完成。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "Entropy 提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 到 1000GB 月流量、3 到 20 台设备。选择合适套餐后，按设备系统导入订阅链接即可连接使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐对比",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "支持月付与年付订阅",
+          "AI_PLANS_INTRO": "基础版 15 元每月，旗舰版 35 元每月，团队版 85 元每月。年付基础版 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照设备数量与月流量，从基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的客户端系统与设备上限，核对自身环境是否匹配。",
+          "AI_STEP_TEXT_3": "依照所用客户端的配置文档导入订阅链接，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "Entropy 订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Entropy 三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻量浏览，100GB 月流量与 3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线游戏优化；团队版 1000GB、20 台设备，适合多人共享。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出并发数量时新增设备需等待或升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，灵活调整；年付按月均摊更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，权益与对应月付档位一致。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端中找到订阅导入或配置入口，粘贴订阅信息后更新节点列表，选择延迟较低的线路连接，具体步骤以所用客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "月流量用尽后当周期内加速服务暂停，可等待下个计费周期恢复，或提前升级到更高流量的档位继续使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uduih.cn",
+    "host": "uduih.cn"
+  },
+  "file_hashes": {
+    "index.html": "9b25d4adac628b5518966a31687d445730d8179ddea69aec6e5e2512eeb6687d",
+    "sitemap.xml": "6ed44eafd8fa1a82c282fa14b313cbcafa620e4e786bb42a3b88cf94d70cbed3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f45a35070bb474727df9647e8b09dc897b37c5855f57626df783a4c8365cbc77",
+    "robots.txt": "84f4fb320851ff4f7b887c743d4e3f90d856f4832c8f40e6213a1ddc3597cc88",
+    "0f25548755a2db15da46b5bc3a984d62.txt": "cf07fe2daff0fdb851addfe2aa9cd3fc8f20bdd4250e7e6d0cf636410a674ffa"
+  },
+  "revision": "2fd48c86b7a537f0fe5fce7c5f36eea13d5018583b6db22cde2145a04f264056"
+}
